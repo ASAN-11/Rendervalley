@@ -2,7 +2,7 @@
 
 🎨 **Status: Under Development**
 
-**RenderValley** is a curated space for discovering **templates designed by abun08 using the Renderforest platform**, along with useful tips, ideas, and creative resources.
+**RenderValley** is a curated space for discovering **templates designed by ASAN-11 using the Renderforest platform**, along with useful tips, ideas, and creative resources.
 
 ## About
 
